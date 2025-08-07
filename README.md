@@ -4,11 +4,11 @@ This project is a simple Contact Manager application built using Nuxt 4 for the 
 
 ## Screenshots
 
-![Cover](/contacts-page.PNG)
+![Cover](/contacts-page.png)
 
-![Login](/loginpage-nuxt-strapi.PNG)
+![Login](/loginpage-nuxt-strapi.png)
 
-![Login](/edit-contact-page.PNG)
+![Login](/edit-contact-page.png)
 
 ## Features
 
