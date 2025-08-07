@@ -1,4 +1,4 @@
-# Nuxt 4 + STrapi 5 - Mini Contact Manager
+# Nuxt 4 + Strapi 5 - Simple Contact Manager
 
 This project is a simple Contact Manager application built using Nuxt 4 for the frontend and Strapi 5 as a headless CMS for managing the contacts. The app allows you to create, read, update, and delete (CRUD) contacts with a clean and intuitive interface.
 
@@ -8,11 +8,11 @@ This project is a simple Contact Manager application built using Nuxt 4 for the 
 
 ![Login](/loginpage-nuxt-strapi.png)
 
-![Login](/edit-contact-page.png)
+![Edit](/edit-contact-page.png)
 
 ## Features
 
-- Create, Read, Update (CRU) contacts
+- Create, Read, Update, Delete (CRUD) contacts
 - Backend powered by Strapi 5
 - Frontend powered by Nuxt 4
 - REST API integration
